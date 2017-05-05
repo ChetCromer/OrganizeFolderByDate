@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "FileFinder", "src\FileFinder\FileFinder.xproj", "{75C7C5CA-CCC9-46E0-858B-26263CFA3311}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizeFiles", "OrganizeFiles\OrganizeFiles.csproj", "{6DBF2636-05AA-4C1A-A6D6-35413B94A52B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{75C7C5CA-CCC9-46E0-858B-26263CFA3311}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C7C5CA-CCC9-46E0-858B-26263CFA3311}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C7C5CA-CCC9-46E0-858B-26263CFA3311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DBF2636-05AA-4C1A-A6D6-35413B94A52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBF2636-05AA-4C1A-A6D6-35413B94A52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DBF2636-05AA-4C1A-A6D6-35413B94A52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBF2636-05AA-4C1A-A6D6-35413B94A52B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
